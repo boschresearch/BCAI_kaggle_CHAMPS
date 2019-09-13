@@ -1,0 +1,1 @@
+This is used to store the model checkpoints while training.
