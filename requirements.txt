@@ -7,7 +7,7 @@ kaggle==1.5.5
 matplotlib==3.1.1
 mendeleev==0.4.5
 networkx==2.3
-notebook==6.0.0
+notebook==6.1.5
 numpy==1.16.4
 pandas==0.24.2
 scikit-learn==0.21.2
